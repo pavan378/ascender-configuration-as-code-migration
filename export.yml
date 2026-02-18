@@ -7,7 +7,6 @@
     export_objects: 
       - credentials
       - credential_types
-      - execution_environments
       - inventory
       - inventory_sources
       - job_templates
