@@ -14,8 +14,6 @@
       - organizations
       - projects
       - schedules
-      - teams
-      - users
       - workflow_job_templates
   
   # This is setting up environment variables for use with the awx.awx collection.
