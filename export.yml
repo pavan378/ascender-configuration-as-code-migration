@@ -1,11 +1,10 @@
 ---
 - name: Export config as code info from AWX, AAP, or Ascender
-  hosts: save-files
+  hosts: all
   gather_facts: false
   vars:
     # These are the objects you wish to export.  Be sure to comment out any you don't want.
     export_objects: 
-      - applications
       - credentials
       - credential_types
       - execution_environments
