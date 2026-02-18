@@ -10,6 +10,8 @@
  #     - credential_types
  #     - organizations
  #     - execution_environments
+      - teams
+      - users
       - inventory
       - inventory_sources
 #      - job_templates
