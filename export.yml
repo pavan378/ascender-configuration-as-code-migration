@@ -8,15 +8,15 @@
  #     - applications
  #     - credentials
  #     - credential_types
- #     - execution_environments
+       - organizations
+ #      - execution_environments
  #     - inventory
  #     - inventory_sources
  #     - job_templates
  #     - notification_templates
- #     - organizations
-      - projects
-      - schedules
-      - workflow_job_templates
+ #     - projects
+ #     - schedules
+ #     - workflow_job_templates
   
   # This is setting up environment variables for use with the awx.awx collection.
   # I'm passing these variables in, but you can hard code them if you choose.
