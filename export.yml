@@ -10,8 +10,8 @@
       - credential_types
       - organizations
       - execution_environments
-      - inventory
-      - inventory_sources
+#      - inventory
+#      - inventory_sources
       - job_templates
       - notification_templates
       - projects
