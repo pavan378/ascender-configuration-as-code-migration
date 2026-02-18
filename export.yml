@@ -6,17 +6,17 @@
     # These are the objects you wish to export.  Be sure to comment out any you don't want.
     export_objects: 
  #     - applications
- #     - credentials
- #     - credential_types
-       - organizations
- #      - execution_environments
- #     - inventory
- #     - inventory_sources
- #     - job_templates
- #     - notification_templates
- #     - projects
- #     - schedules
- #     - workflow_job_templates
+      - credentials
+      - credential_types
+      - organizations
+      - execution_environments
+      - inventory
+      - inventory_sources
+      - job_templates
+      - notification_templates
+      - projects
+      - schedules
+      - workflow_job_templates
   
   # This is setting up environment variables for use with the awx.awx collection.
   # I'm passing these variables in, but you can hard code them if you choose.
