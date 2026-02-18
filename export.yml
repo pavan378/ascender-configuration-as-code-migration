@@ -5,10 +5,12 @@
   vars:
     # These are the objects you wish to export.  Be sure to comment out any you don't want.
     export_objects: 
+ #     - applications
       - credentials
       - credential_types
-      - inventory
-      - inventory_sources
+ #     - execution_environments
+ #     - inventory
+ #     - inventory_sources
       - job_templates
       - notification_templates
       - organizations
